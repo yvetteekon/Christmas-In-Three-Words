@@ -23,4 +23,4 @@ Partitioning Around Medoids (PAM) algorithm
 
 ### Result:
 
-Santa, drunk, trump, "fword",, tree, family, thankful, Jesus occured in decreasing frequency or order in the tweets mined.
+Santa, drunk, trump, fuck, tree, family, thankful, Jesus occured in decreasing frequency or order in the tweets mined.
