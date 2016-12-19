@@ -8,13 +8,17 @@ Twitter
 ### Graphical Analyses :
 
 Bar plot to visualize distribution of term frequency
+
 Correlation plot to visualize distribution of term association
+
 Word cloud to visualize both term frequency and term association
 
 ### Algorithms Used:
 
 Hierarchical Clustering
+
 K-Means Clustering
+
 Partitioning Around Medoids (PAM) algorithm
 
 ### Result:
