@@ -5,7 +5,7 @@ A text and sentiment analysis of #christmasinthreewords on Twitter
 
 Twitter
 
-### Graphical Analyses :
+### Graphical Analyses:
 
 Bar plot to visualize distribution of term frequency
 
